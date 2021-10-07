@@ -1,11 +1,11 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5781801&assignment_repo_type=AssignmentRepo)
+  [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5781801&assignment_repo_type=AssignmentRepo)
 # 计算器
 
 请仿照Apple官方iOS中的计算器编写一个自己的计算器App，要求（利用Autolayout技术）支持竖屏（portrait）和横屏（landscape）两种使用模型，分别如下图所示：
 
-![竖屏](https://raw.githubusercontent.com/iwork-2021/iw01/master/images/portrait.png)
+<img src="./images/portrait.png" alt="竖屏" style="zoom:20%;" />
 
-![横屏](https://raw.githubusercontent.com/iwork-2021/iw01/master/images/landscape.png)
+![横屏](images/landscape.png)
 
 具体要求包括：
 
